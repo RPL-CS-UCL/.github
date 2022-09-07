@@ -1,6 +1,6 @@
 # [Robot Perception and Learning Lab](https://rpl-as-ucl.github.io/)
 
-<img src="https://rpl-as-ucl.github.io/images/logos/rpl-cs-ucl-logo.png" align="center">
+<img src="https://rpl-as-ucl.github.io/images/logos/rpl-cs-ucl-logo.png" align="center" width="400">
 
 ## Limbed Robotics @ University College London (UCL)
 
