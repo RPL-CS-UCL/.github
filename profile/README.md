@@ -15,3 +15,5 @@ Our research focuses on perception and learning for robotics, and in particular,
 [facebook](https://www.facebook.com/RPL.UCL)
 
 # Project Webpages
+
+1. "ASFM - Augmented Social Force Model for Legged Robot Social Navigation" [Webpage](https://rpl-cs-ucl.github.io/ASFM)[Repo](https://github.com/RPL-CS-UCL/ASFM)
